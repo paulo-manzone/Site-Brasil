@@ -1,3 +1,6 @@
 .linhaCinza {
 	background-color: gray;
+	border-width: 3px;
+	border-style: dotted;
+	border-color: black;
 }
