@@ -1,6 +1,15 @@
+body{
+	background-color: yellow;
+}
+
 .linhaCinza {
-	background-color: gray;
+	background-color: green;
 	border-width: 3px;
 	border-style: dotted;
 	border-color: black;
+}
+
+
+.bg-modificado p{
+	padding: 15px;
 }
