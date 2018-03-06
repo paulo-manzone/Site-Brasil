@@ -1,6 +1,8 @@
-body{
+body {
 	background-color: yellow;
 }
+
+
 
 .linhaCinza {
 	background-color: green;
@@ -10,6 +12,11 @@ body{
 }
 
 
-.bg-modificado p{
+.bg-modificado p {
 	padding: 15px;
 }
+
+.wt{
+	color: white;
+}
+
